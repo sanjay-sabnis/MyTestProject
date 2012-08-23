@@ -12,5 +12,7 @@ Latest master change here
 rebase branch change
 
 Change again,.,.,,.,.,.,.
+
+added new
 here
 
