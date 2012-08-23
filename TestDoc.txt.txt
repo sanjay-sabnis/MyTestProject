@@ -1,6 +1,9 @@
 Here I am doing some test
 
 
-
-
 I modified when on the branch
+
+I added when I am on master
+
+One more master change
+
